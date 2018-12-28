@@ -3,15 +3,15 @@
 HOW TO USE
 
 In c terminal:
--"make all" to make bankingServer and bankingClient.
--"make bankingServer" for bankingServer. 
--"make bankingClient" for bankingClient.
--"make clean" to clean bankingServer and bankingClient.
+	-"make all" to make bankingServer and bankingClient.
+	-"make bankingServer" for bankingServer. 
+	-"make bankingClient" for bankingClient.
+	-"make clean" to clean bankingServer and bankingClient.
 
--"./bankingServer <PORT>" 
-	to start server. Make sure <PORT> is greater than 8000.
--"./bankingClient <MACHINE> <PORT>"
-        to start client. Make sure <MACHINE> AND <PORT> is the location of the server.
+	-"./bankingServer <PORT>" 
+		to start server. Make sure <PORT> is greater than 8000.
+	-"./bankingClient <MACHINE> <PORT>"
+        	to start client. Make sure <MACHINE> AND <PORT> is the location of the server.
 
 ======================================================================================
 DESIGN
