@@ -3,9 +3,13 @@
 HOW TO USE
 
 In c terminal:
+	
 	-"make all" to make bankingServer and bankingClient.
-	-"make bankingServer" for bankingServer. 
+	
+	-"make bankingServer" for bankingServer.
+	
 	-"make bankingClient" for bankingClient.
+	
 	-"make clean" to clean bankingServer and bankingClient.
 
 	-"./bankingServer <PORT>" 
