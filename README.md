@@ -17,7 +17,7 @@ In c terminal:
 	-"./bankingClient <MACHINE> <PORT>"
         	to start client. Make sure <MACHINE> AND <PORT> is the location of the server.
 
-======================================================================================
+======================================================================================//
 DESIGN
   - Everytime there is a new client, a new thread is created.
   - All account information are stored in a global hashtable "bank".
